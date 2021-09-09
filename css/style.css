@@ -1,0 +1,28 @@
+body{
+    background-color:rgb(236, 148, 17);
+    
+}
+
+
+h1{
+    color: white;
+    font-family: "Montserrat-Bold"; 
+    font-weight: bold;
+    
+}
+
+p{
+    color: white;
+
+}
+
+.btn-get{
+    margin-top: 20px;
+}
+.content{
+    margin-top: 50px;
+    padding-top: 80px;
+}
+.image{
+    margin-top: 30px;
+}
